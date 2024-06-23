@@ -2,8 +2,9 @@
 ![](StoryofEmergence.png)
 ![](StoryOfEmergence.gif)
 # DreamSong:
-
-- [Emergence - A Universal Love Story](https://www.youtube.com/watch?v=31zm8sEVhQA)
+![](StoryOfEmergence.mov)
+## Mirrors:
+- [YouTube](https://www.youtube.com/watch?v=31zm8sEVhQA)
 
 # Perspectives
 
